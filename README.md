@@ -25,7 +25,6 @@
   <h3 align="center">Customer Churn Prediction | SAS Vyia </h3>
 
   <p align="center">
-    This project was submitted to University College Dublin in part fulfilment of the requirements of 
   The purpose of this assignment is to use SAS Machine Learning Platform - SAS Vyia to explore data, preform customer segmentation and predict customer churn.
 
     
