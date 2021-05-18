@@ -52,112 +52,36 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-
 ### Built With
-
-* []()
-* []()
-* []()
-
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
-
 ### Installation
-
-1. Clone the repo
-```sh
-git clone https://github.com/fallingstar3107/Customer-Churn-Prediction-SAS-Vyia.git
-```
-2. Install NPM packages
-```sh
-npm install
-```
-
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
 <!-- ROADMAP -->
 ## Roadmap
-
-See the [open issues](https://github.com/fallingstar3107/Customer-Churn-Prediction-SAS-Vyia/issues) for a list of proposed features (and known issues).
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
 <!-- LICENSE -->
 ## License
-
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - hang.nguyen1@ucdconnect.
-
-Project Link: [https://github.com/fallingstar3107/Customer-Churn-Prediction-SAS-Vyia](https://github.com/fallingstar3107/Customer-Churn-Prediction-SAS-Vyia)
-
-
-
+Your Name - hang.nguyen1@ucdconnect.
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
+## Acknowledgements<!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/fallingstar3107/Customer-Churn-Prediction-SAS-Vyia.svg?style=flat-square
-[contributors-url]: https://github.com/fallingstar3107/Customer-Churn-Prediction-SAS-Vyia/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/fallingstar3107/Customer-Churn-Prediction-SAS-Vyia.svg?style=flat-square
-[forks-url]: https://github.com/fallingstar3107/Customer-Churn-Prediction-SAS-Vyia/network/members
-[stars-shield]: https://img.shields.io/github/stars/fallingstar3107/Customer-Churn-Prediction-SAS-Vyia.svg?style=flat-square
-[stars-url]: https://github.com/fallingstar3107/Customer-Churn-Prediction-SAS-Vyia/stargazers
-[issues-shield]: https://img.shields.io/github/issues/fallingstar3107/Customer-Churn-Prediction-SAS-Vyia.svg?style=flat-square
-[issues-url]: https://github.com/fallingstar3107/Customer-Churn-Prediction-SAS-Vyia/issues
-[license-shield]: https://img.shields.io/github/license/fallingstar3107/Customer-Churn-Prediction-SAS-Vyia.svg?style=flat-square
-[license-url]: https://github.com/fallingstar3107/Customer-Churn-Prediction-SAS-Vyia/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/sylviahangnguyen/Customer-Churn-Prediction-SAS-Vyia.svg?style=flat-square
+[contributors-url]: https://github.com/sylviahangnguyen/Customer-Churn-Prediction-SAS-Vyia/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sylviahangnguyen/Customer-Churn-Prediction-SAS-Vyia.svg?style=flat-square
+[forks-url]: https://github.com/sylviahangnguyen/Customer-Churn-Prediction-SAS-Vyia/network/members
+[stars-shield]: https://img.shields.io/github/stars/sylviahangnguyen/Customer-Churn-Prediction-SAS-Vyia.svg?style=flat-square
+[stars-url]: https://github.com/sylviahangnguyen/Customer-Churn-Prediction-SAS-Vyia/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sylviahangnguyen/Customer-Churn-Prediction-SAS-Vyia.svg?style=flat-square
+[issues-url]: https://github.com/sylviahangnguyen/Customer-Churn-Prediction-SAS-Vyia/issues
+[license-shield]: https://img.shields.io/github/license/sylviahangnguyen/Customer-Churn-Prediction-SAS-Vyia.svg?style=flat-square
+[license-url]: https://github.com/sylviahangnguyen/Customer-Churn-Prediction-SAS-Vyia/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/hang-nguyen-analytics/
 [product-screenshot]: images/screenshot.png
